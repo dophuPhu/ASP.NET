@@ -1,0 +1,6 @@
+@Dophu_2122110155_HostAddress = http://localhost:5114
+
+GET {{Dophu_2122110155_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
