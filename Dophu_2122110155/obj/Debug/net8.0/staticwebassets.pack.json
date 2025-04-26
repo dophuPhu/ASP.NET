@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Molten_Fiba_Approved.jpg",
+      "PackagePath": "staticwebassets\\images\\Molten_Fiba_Approved.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Nike_Elile_Airlock.jpg",
+      "PackagePath": "staticwebassets\\images\\Nike_Elile_Airlock.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Wilson_NBA.jpg",
+      "PackagePath": "staticwebassets\\images\\Wilson_NBA.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-low-se-craft.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-low-se-craft.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se-craft.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-mid-se-craft.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-mid-se.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-zoom-cmft-2.png",
+      "PackagePath": "staticwebassets\\images\\air-jordan-1-zoom-cmft-2.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bannerao.jpg",
+      "PackagePath": "staticwebassets\\images\\bannerao.jpg"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bongro.png",
+      "PackagePath": "staticwebassets\\images\\bongro.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\jordan-sport.png",
+      "PackagePath": "staticwebassets\\images\\jordan-sport.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\logoBongRo.png",
+      "PackagePath": "staticwebassets\\images\\logoBongRo.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product03.png",
+      "PackagePath": "staticwebassets\\images\\product03.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product07.png",
+      "PackagePath": "staticwebassets\\images\\product07.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sainablematerials.png",
+      "PackagePath": "staticwebassets\\images\\sainablematerials.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\shop01.png",
+      "PackagePath": "staticwebassets\\images\\shop01.png"
+    },
+    {
+      "Id": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sustainablematerials.png",
+      "PackagePath": "staticwebassets\\images\\sustainablematerials.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dophu_2122110155.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dophu_2122110155.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dophu_2122110155.props",
+      "PackagePath": "build\\Dophu_2122110155.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dophu_2122110155.props",
+      "PackagePath": "buildMultiTargeting\\Dophu_2122110155.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dophu_2122110155.props",
+      "PackagePath": "buildTransitive\\Dophu_2122110155.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

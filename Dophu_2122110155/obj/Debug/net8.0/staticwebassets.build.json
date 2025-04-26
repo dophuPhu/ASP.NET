@@ -1,12 +1,1773 @@
 {
   "Version": 1,
-  "Hash": "+gGVx44RD1bnb9I15DY/zJCCZzRYvxgOZCn72syioVQ=",
+  "Hash": "OU4s9dMZ7rZ5cQGg60JRJfgjGXREMp3B4PPck/mangA=",
   "Source": "Dophu_2122110155",
   "BasePath": "_content/Dophu_2122110155",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dophu_2122110155\\wwwroot",
+      "Source": "Dophu_2122110155",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-low-se-craft.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/air-jordan-1-low-se-craft#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e1cv0rff6i",
+      "Integrity": "skpbzfqZf2UIQaEHrLPapYIT6b/96IERoYUnkUCVFa8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\air-jordan-1-low-se-craft.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/air-jordan-1-mid-se#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k2qh0aeo4o",
+      "Integrity": "xBm8tUuJjZTJNQbphMQvD7PKuzXHklfoP6C6XHgGAc8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\air-jordan-1-mid-se.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se-craft.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/air-jordan-1-mid-se-craft#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "89awbnixaj",
+      "Integrity": "FP1ekJ7lLW++DyPEys5ZBqB77lOJbUw1LD6AZE2+bpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\air-jordan-1-mid-se-craft.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-zoom-cmft-2.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/air-jordan-1-zoom-cmft-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "inj6tw5zfb",
+      "Integrity": "Aop20UC3qsyziIR2La3UpR6LFWPIi/BuHQ7vptLAkwE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\air-jordan-1-zoom-cmft-2.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\banner1.jpg",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/banner1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus2u7clgw",
+      "Integrity": "aKfyFEDZzYftur3ScCqImzObWjPBmbjebJYQiz3czjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner1.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bannerao.jpg",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/bannerao#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "olooxgk4hl",
+      "Integrity": "dCyroe67sWDjS3XCKjK9FdqeqZa7Ba7LqeZXz9ewzfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bannerao.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bongro.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/bongro#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vdsqb31zyn",
+      "Integrity": "M7n8khs7+wFMOC/IUUkjxkNdLCtBJE3U5+6C2Ko/LcM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bongro.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\jordan-sport.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/jordan-sport#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ei9g394rt3",
+      "Integrity": "2sTRVEQ12MDssad+6HX4hacwrw09RDHsdBnxx6Wolfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jordan-sport.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\logoBongRo.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/logoBongRo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zzhbmitwso",
+      "Integrity": "3130jb5UfKgfGm920BXphpn+elsl9pdiBJ9RL6NSfic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logoBongRo.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Molten_Fiba_Approved.jpg",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/Molten_Fiba_Approved#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xjchaw8hcw",
+      "Integrity": "Mxy4hERcgibfIAMx5ynfXYi515KpSpjciyUY2eNr9uo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Molten_Fiba_Approved.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Nike_Elile_Airlock.jpg",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/Nike_Elile_Airlock#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3am9b3kl6m",
+      "Integrity": "CzBnD+dyaSYWLNZcSej5HEWIZaimJt87AJd3jXX6XHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Nike_Elile_Airlock.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product03.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/product03#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rriuibaral",
+      "Integrity": "h3jdxV1uxxIydT77Hr5Nu3ROnPI+pYZfedWASKmxodM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product03.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product07.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/product07#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dopn8k2u1f",
+      "Integrity": "vVk5qYSYHeoGLcTVWHs7xKKS67Q0NzRgoKwOKrOsQBg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product07.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sainablematerials.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/sainablematerials#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "omvfa9s8fv",
+      "Integrity": "4Bteiohwz0ogI2Bqwf2zDKFl131Pb0+nugQb+9+yYMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sainablematerials.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\shop01.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/shop01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sl6gnmdrk2",
+      "Integrity": "cKQDP5zURDB4Bxv9l9/h3j/18Nz8snlmJQDVkqDOiNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop01.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sustainablematerials.png",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/sustainablematerials#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qezwrh8hfp",
+      "Integrity": "vuXRyKcBAPrxfzzXVfyzaRN+xSQCKl3JfTR/j6iAHjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sustainablematerials.png"
+    },
+    {
+      "Identity": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Wilson_NBA.jpg",
+      "SourceId": "Dophu_2122110155",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\",
+      "BasePath": "_content/Dophu_2122110155",
+      "RelativePath": "images/Wilson_NBA#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ydqbwa3je",
+      "Integrity": "HpTtRQhthApV0ZIszZHH/tOt4SKiiEWDvtKobY/wZtE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Wilson_NBA.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/air-jordan-1-low-se-craft.e1cv0rff6i.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-low-se-craft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"skpbzfqZf2UIQaEHrLPapYIT6b/96IERoYUnkUCVFa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e1cv0rff6i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/air-jordan-1-low-se-craft.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-skpbzfqZf2UIQaEHrLPapYIT6b/96IERoYUnkUCVFa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-low-se-craft.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-low-se-craft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"skpbzfqZf2UIQaEHrLPapYIT6b/96IERoYUnkUCVFa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-skpbzfqZf2UIQaEHrLPapYIT6b/96IERoYUnkUCVFa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-mid-se.k2qh0aeo4o.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xBm8tUuJjZTJNQbphMQvD7PKuzXHklfoP6C6XHgGAc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:28:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k2qh0aeo4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/air-jordan-1-mid-se.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBm8tUuJjZTJNQbphMQvD7PKuzXHklfoP6C6XHgGAc8="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-mid-se.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xBm8tUuJjZTJNQbphMQvD7PKuzXHklfoP6C6XHgGAc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:28:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBm8tUuJjZTJNQbphMQvD7PKuzXHklfoP6C6XHgGAc8="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-mid-se-craft.89awbnixaj.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se-craft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FP1ekJ7lLW++DyPEys5ZBqB77lOJbUw1LD6AZE2+bpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:45:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "89awbnixaj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/air-jordan-1-mid-se-craft.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FP1ekJ7lLW++DyPEys5ZBqB77lOJbUw1LD6AZE2+bpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-mid-se-craft.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-mid-se-craft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FP1ekJ7lLW++DyPEys5ZBqB77lOJbUw1LD6AZE2+bpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:45:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FP1ekJ7lLW++DyPEys5ZBqB77lOJbUw1LD6AZE2+bpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-zoom-cmft-2.inj6tw5zfb.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-zoom-cmft-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aop20UC3qsyziIR2La3UpR6LFWPIi/BuHQ7vptLAkwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "inj6tw5zfb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/air-jordan-1-zoom-cmft-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aop20UC3qsyziIR2La3UpR6LFWPIi/BuHQ7vptLAkwE="
+        }
+      ]
+    },
+    {
+      "Route": "images/air-jordan-1-zoom-cmft-2.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\air-jordan-1-zoom-cmft-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aop20UC3qsyziIR2La3UpR6LFWPIi/BuHQ7vptLAkwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aop20UC3qsyziIR2La3UpR6LFWPIi/BuHQ7vptLAkwE="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKfyFEDZzYftur3ScCqImzObWjPBmbjebJYQiz3czjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:37:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKfyFEDZzYftur3ScCqImzObWjPBmbjebJYQiz3czjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.wus2u7clgw.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\banner1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKfyFEDZzYftur3ScCqImzObWjPBmbjebJYQiz3czjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:37:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus2u7clgw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKfyFEDZzYftur3ScCqImzObWjPBmbjebJYQiz3czjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/bannerao.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bannerao.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dCyroe67sWDjS3XCKjK9FdqeqZa7Ba7LqeZXz9ewzfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dCyroe67sWDjS3XCKjK9FdqeqZa7Ba7LqeZXz9ewzfs="
+        }
+      ]
+    },
+    {
+      "Route": "images/bannerao.olooxgk4hl.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bannerao.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dCyroe67sWDjS3XCKjK9FdqeqZa7Ba7LqeZXz9ewzfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olooxgk4hl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bannerao.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dCyroe67sWDjS3XCKjK9FdqeqZa7Ba7LqeZXz9ewzfs="
+        }
+      ]
+    },
+    {
+      "Route": "images/bongro.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bongro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "683170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7n8khs7+wFMOC/IUUkjxkNdLCtBJE3U5+6C2Ko/LcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7n8khs7+wFMOC/IUUkjxkNdLCtBJE3U5+6C2Ko/LcM="
+        }
+      ]
+    },
+    {
+      "Route": "images/bongro.vdsqb31zyn.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\bongro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "683170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7n8khs7+wFMOC/IUUkjxkNdLCtBJE3U5+6C2Ko/LcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vdsqb31zyn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bongro.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7n8khs7+wFMOC/IUUkjxkNdLCtBJE3U5+6C2Ko/LcM="
+        }
+      ]
+    },
+    {
+      "Route": "images/jordan-sport.ei9g394rt3.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\jordan-sport.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2sTRVEQ12MDssad+6HX4hacwrw09RDHsdBnxx6Wolfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:07:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ei9g394rt3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jordan-sport.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2sTRVEQ12MDssad+6HX4hacwrw09RDHsdBnxx6Wolfw="
+        }
+      ]
+    },
+    {
+      "Route": "images/jordan-sport.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\jordan-sport.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2sTRVEQ12MDssad+6HX4hacwrw09RDHsdBnxx6Wolfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 08:07:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2sTRVEQ12MDssad+6HX4hacwrw09RDHsdBnxx6Wolfw="
+        }
+      ]
+    },
+    {
+      "Route": "images/logoBongRo.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\logoBongRo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3130jb5UfKgfGm920BXphpn+elsl9pdiBJ9RL6NSfic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:50:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3130jb5UfKgfGm920BXphpn+elsl9pdiBJ9RL6NSfic="
+        }
+      ]
+    },
+    {
+      "Route": "images/logoBongRo.zzhbmitwso.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\logoBongRo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3130jb5UfKgfGm920BXphpn+elsl9pdiBJ9RL6NSfic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:50:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zzhbmitwso"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logoBongRo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3130jb5UfKgfGm920BXphpn+elsl9pdiBJ9RL6NSfic="
+        }
+      ]
+    },
+    {
+      "Route": "images/Molten_Fiba_Approved.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Molten_Fiba_Approved.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mxy4hERcgibfIAMx5ynfXYi515KpSpjciyUY2eNr9uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mxy4hERcgibfIAMx5ynfXYi515KpSpjciyUY2eNr9uo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Molten_Fiba_Approved.xjchaw8hcw.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Molten_Fiba_Approved.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mxy4hERcgibfIAMx5ynfXYi515KpSpjciyUY2eNr9uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 10:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjchaw8hcw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Molten_Fiba_Approved.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mxy4hERcgibfIAMx5ynfXYi515KpSpjciyUY2eNr9uo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Nike_Elile_Airlock.3am9b3kl6m.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Nike_Elile_Airlock.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CzBnD+dyaSYWLNZcSej5HEWIZaimJt87AJd3jXX6XHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 14:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3am9b3kl6m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Nike_Elile_Airlock.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CzBnD+dyaSYWLNZcSej5HEWIZaimJt87AJd3jXX6XHw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Nike_Elile_Airlock.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Nike_Elile_Airlock.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CzBnD+dyaSYWLNZcSej5HEWIZaimJt87AJd3jXX6XHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 14:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CzBnD+dyaSYWLNZcSej5HEWIZaimJt87AJd3jXX6XHw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product03.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h3jdxV1uxxIydT77Hr5Nu3ROnPI+pYZfedWASKmxodM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h3jdxV1uxxIydT77Hr5Nu3ROnPI+pYZfedWASKmxodM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product03.rriuibaral.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product03.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h3jdxV1uxxIydT77Hr5Nu3ROnPI+pYZfedWASKmxodM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rriuibaral"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product03.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h3jdxV1uxxIydT77Hr5Nu3ROnPI+pYZfedWASKmxodM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product07.dopn8k2u1f.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product07.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vVk5qYSYHeoGLcTVWHs7xKKS67Q0NzRgoKwOKrOsQBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:57:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dopn8k2u1f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product07.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vVk5qYSYHeoGLcTVWHs7xKKS67Q0NzRgoKwOKrOsQBg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product07.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\product07.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vVk5qYSYHeoGLcTVWHs7xKKS67Q0NzRgoKwOKrOsQBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:57:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vVk5qYSYHeoGLcTVWHs7xKKS67Q0NzRgoKwOKrOsQBg="
+        }
+      ]
+    },
+    {
+      "Route": "images/sainablematerials.omvfa9s8fv.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sainablematerials.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Bteiohwz0ogI2Bqwf2zDKFl131Pb0+nugQb+9+yYMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:54:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omvfa9s8fv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sainablematerials.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Bteiohwz0ogI2Bqwf2zDKFl131Pb0+nugQb+9+yYMI="
+        }
+      ]
+    },
+    {
+      "Route": "images/sainablematerials.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sainablematerials.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Bteiohwz0ogI2Bqwf2zDKFl131Pb0+nugQb+9+yYMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:54:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Bteiohwz0ogI2Bqwf2zDKFl131Pb0+nugQb+9+yYMI="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop01.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\shop01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175826"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKQDP5zURDB4Bxv9l9/h3j/18Nz8snlmJQDVkqDOiNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 17:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKQDP5zURDB4Bxv9l9/h3j/18Nz8snlmJQDVkqDOiNc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop01.sl6gnmdrk2.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\shop01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175826"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKQDP5zURDB4Bxv9l9/h3j/18Nz8snlmJQDVkqDOiNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 17:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl6gnmdrk2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKQDP5zURDB4Bxv9l9/h3j/18Nz8snlmJQDVkqDOiNc="
+        }
+      ]
+    },
+    {
+      "Route": "images/sustainablematerials.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sustainablematerials.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuXRyKcBAPrxfzzXVfyzaRN+xSQCKl3JfTR/j6iAHjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuXRyKcBAPrxfzzXVfyzaRN+xSQCKl3JfTR/j6iAHjs="
+        }
+      ]
+    },
+    {
+      "Route": "images/sustainablematerials.qezwrh8hfp.png",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\sustainablematerials.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuXRyKcBAPrxfzzXVfyzaRN+xSQCKl3JfTR/j6iAHjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qezwrh8hfp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sustainablematerials.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuXRyKcBAPrxfzzXVfyzaRN+xSQCKl3JfTR/j6iAHjs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Wilson_NBA.6ydqbwa3je.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Wilson_NBA.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HpTtRQhthApV0ZIszZHH/tOt4SKiiEWDvtKobY/wZtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ydqbwa3je"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Wilson_NBA.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HpTtRQhthApV0ZIszZHH/tOt4SKiiEWDvtKobY/wZtE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Wilson_NBA.jpg",
+      "AssetFile": "D:\\C#\\Dophu_2122110155\\Dophu_2122110155\\wwwroot\\images\\Wilson_NBA.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HpTtRQhthApV0ZIszZHH/tOt4SKiiEWDvtKobY/wZtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 00:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HpTtRQhthApV0ZIszZHH/tOt4SKiiEWDvtKobY/wZtE="
+        }
+      ]
+    }
+  ]
 }
